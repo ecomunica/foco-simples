@@ -178,3 +178,5 @@ foco_simples/
 Projeto em evolução.
 
 A documentação pública foi preparada para permitir que outros desenvolvedores entendam a proposta, estudem a implementação e configurem o projeto em seu próprio ambiente.
+
+em teste - https://play.google.com/store/apps/details?id=br.com.qacom.foco_simples&pcampaignid=web_share
